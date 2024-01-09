@@ -1,2 +1,1 @@
 # Counter
-JAVASCRIPT (Counter)
